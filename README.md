@@ -19,6 +19,7 @@ main(List<String> args) {
     'Helena|24|Feminino',
     'Laura|29|Feminino',
   ];
+}​
 ~~~
 
   ### Baseado na lista acima:
@@ -27,4 +28,3 @@ main(List<String> args) {
   * 3 - Filtrar e deixar a lista somente com pessoas maiores de 18 anos e mostre a quantidade de pessoas com mais de 18 anos.
   * 4 - Encontre a pessoa mais velha.
   
-}​
